@@ -13,8 +13,8 @@ Um ano de experiência em atendimento ao cliente com objetivo traduzir os objeti
 Um profissional amante de novas tecnologias e apaixonado por estudar novas tecnologias, apaixonado pela comunicação e capacidade de trabalhar em equipe e sob pressão, sempre aprendendo muito rápido.
           
 <div>
-<a href="https://github.com/GabrielSoalheiro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoalheiro&layout=compact&langs_count=7&theme=gotham,blade,shell"/>
+<a href="https://github.com/rafaelmfs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoalheiro&layout=compact&langs_count=7&theme=gotham&hide=php,blade,shell"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoalheiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
