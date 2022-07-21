@@ -15,7 +15,7 @@ Um profissional amante de novas tecnologias e apaixonado por estudar novas tecno
 <div>
 <a href="https://github.com/rafaelmfs">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoalheiro&layout=compact&langs_count=7&theme=gotham&hide=php,blade,shell"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoalheiro&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoalheiro&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Contatos
