@@ -1,16 +1,23 @@
-
 # GABRIEL JORGE SOALHEIRO SÓ
+Meu nome é Gabriel, e sou um programador especializado em C#. Com mais de 2 anos de experiência na indústria de software, tenho ajudado empresas a criar soluções eficientes e de alta qualidade que atendam às suas necessidades de negócios.
 
+Como programador experiente em C#, possuo habilidades avançadas em desenvolvimento web e desktop. Além disso, estou sempre atualizado com as últimas tendências e tecnologias, e sou capaz de trabalhar em equipe para atender aos prazos do projeto.
 
-Sou estagiário desenvolvedor dinâmico e apaixonado por coisas bem feitas. Defensor da otimização e componentização da POO e legibilidade do código. Conhecimento de várias linguagens, frameworks e plataformas, e uma forte capacidade de aprender, planejar e criar soluções incríveis.
+## Minha experiência técnica inclui:
 
-Graduando no curso de Sistemas da Informação pela Faculdade PUC Minas. Chamado à participar do programa chamado de intercambio da PUC Minas. 
+- C# e ASP.NET MVC para desenvolvimento web.
 
-Os programas acadêmicos nos quais tomei parte me deram os conhecimento necessário para entender melhor os pormenores do desenvolvimento de softwares para ser um profissional mais eficiente, e também a sabedoria para buscar fontes para estar sempre me aperfeiçoando de forma autônoma.
+- ADO.NET e Entity Framework para acesso a banco de dados.
 
-Um ano de experiência em atendimento ao cliente com objetivo traduzir os objetivos do sistema e garantir o sucesso do cliente e User Stories para facilitar a vida dos desenvolvedores na abertura de tickets.
+- SQL Server para gerenciamento de bancos de dados.
 
-Um profissional amante de novas tecnologias e apaixonado por estudar novas tecnologias, apaixonado pela comunicação e capacidade de trabalhar em equipe e sob pressão, sempre aprendendo muito rápido.
+- Bootstrap para design responsivo e front-end.
+
+- Scrum para metodologias ágeis de gerenciamento de projetos.
+
+- Trello para gerenciamento de projetos e integração contínua.
+
+Eu sou um programador altamente motivado e apaixonado pelo meu trabalho. Sempre busco melhorar minhas habilidades e estar atualizado com as novas tecnologias.
           
 <div>
 <a href="https://github.com/GabrielSoalheiro">
@@ -20,9 +27,5 @@ Um profissional amante de novas tecnologias e apaixonado por estudar novas tecno
 
 ### Contatos
 
-  [![outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabrielsoalheiro2011@hotmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsoalheiro/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_soalheiro/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533999857659)
-
-
-
-
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gabrielsoalheiro2016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsoalheiro/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gabriel_soalheiro/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533999857659)
