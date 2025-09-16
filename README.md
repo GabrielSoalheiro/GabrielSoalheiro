@@ -61,7 +61,7 @@ Construir soluções que potencializam negócios, engajam equipes e geram impact
 
 ---
 
-**Palavras-chave para recrutadores**: .NET 8, C#, ASP.NET Core, APIs RESTful, Clean Architecture, DDD, DevOps, CI/CD, Docker, Azure, AWS, MongoDB, RabbitMQ, Kafka, Testes Automatizados, TDD, SOLID, Microservices, Git, Agile, LGPD, Security, Mentoria.
+**Palavras-chave**: .NET 8, C#, ASP.NET Core, APIs RESTful, Clean Architecture, DDD, DevOps, CI/CD, Docker, Azure, AWS, MongoDB, RabbitMQ, Kafka, Testes Automatizados, TDD, SOLID, Microservices, Git, Agile, LGPD, Security, Mentoria.
 
 ---
 
