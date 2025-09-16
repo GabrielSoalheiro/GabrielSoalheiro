@@ -55,7 +55,7 @@ Construir soluções que potencializam negócios, engajam equipes e geram impact
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielSoalheiro)
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoalheiro&layout=compact&langs_count=10&hide=JavaScript,CSS"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoalheiro&layout=compact&langs_count=10"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoalheiro&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
